@@ -1,0 +1,17 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.5
+scipy>=1.10
+coolprop>=6.4.1
+jupyterlab>=3.5
+notebook>=6.5
+ipykernel>=6.21
+ipython>=8.10
+pyomo>=6.4
+gurobipy>=10.0.0 ; sys_platform != 'darwin'  # optional if using Gurobi
+seaborn>=0.12.2
+tqdm>=4.65
+openpyxl>=3.1.2
+plotly>=5.15
+nbformat>=5.8
+nbconvert>=7.3
